@@ -1,0 +1,17 @@
+F:\DotNET\Wpfprogram2\Wpfprogram2\bin\Debug\Wpfprogram2.exe.config
+F:\DotNET\Wpfprogram2\Wpfprogram2\bin\Debug\Wpfprogram2.exe
+F:\DotNET\Wpfprogram2\Wpfprogram2\bin\Debug\Wpfprogram2.pdb
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2.csprojAssemblyReference.cache
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\MainWindow.g.cs
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\App.g.cs
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2_MarkupCompile.cache
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2_MarkupCompile.lref
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\MainWindow.baml
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2.g.resources
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2.Properties.Resources.resources
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2.csproj.GenerateResource.cache
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2.csproj.CoreCompileInputs.cache
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2.exe
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\Wpfprogram2.pdb
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\WindowProject1.g.cs
+F:\DotNET\Wpfprogram2\Wpfprogram2\obj\Debug\WindowProject1.baml

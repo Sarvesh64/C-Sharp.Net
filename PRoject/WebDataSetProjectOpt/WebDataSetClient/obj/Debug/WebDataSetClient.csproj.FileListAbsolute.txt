@@ -1,0 +1,15 @@
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient.csprojAssemblyReference.cache
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\MainWindow.g.cs
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\App.g.cs
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient_MarkupCompile.cache
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient_MarkupCompile.lref
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\bin\Debug\WebDataSetClient.exe.config
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\bin\Debug\WebDataSetClient.exe
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\bin\Debug\WebDataSetClient.pdb
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\MainWindow.baml
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient.g.resources
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient.Properties.Resources.resources
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient.csproj.GenerateResource.cache
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient.csproj.CoreCompileInputs.cache
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient.exe
+F:\DotNET\PRoject\WebDataSetProjectOpt\WebDataSetClient\obj\Debug\WebDataSetClient.pdb

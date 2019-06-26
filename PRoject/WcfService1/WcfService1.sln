@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{CEE0E41C-13CF-4127-80A1-F21034AEE79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{4B0E30EB-A868-443B-9572-A66250E77871}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CEE0E41C-13CF-4127-80A1-F21034AEE79A} = {CEE0E41C-13CF-4127-80A1-F21034AEE79A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE0E41C-13CF-4127-80A1-F21034AEE79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE0E41C-13CF-4127-80A1-F21034AEE79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE0E41C-13CF-4127-80A1-F21034AEE79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE0E41C-13CF-4127-80A1-F21034AEE79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0E30EB-A868-443B-9572-A66250E77871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0E30EB-A868-443B-9572-A66250E77871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0E30EB-A868-443B-9572-A66250E77871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0E30EB-A868-443B-9572-A66250E77871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31006620-79FF-497A-9E23-6D8EDF8A3C5D}
+	EndGlobalSection
+EndGlobal

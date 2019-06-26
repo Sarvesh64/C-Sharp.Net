@@ -1,0 +1,6 @@
+F:\DotNET\assignments\Assignment2\bin\Debug\Assignment2.exe.config
+F:\DotNET\assignments\Assignment2\bin\Debug\Assignment2.exe
+F:\DotNET\assignments\Assignment2\bin\Debug\Assignment2.pdb
+F:\DotNET\assignments\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+F:\DotNET\assignments\Assignment2\obj\Debug\Assignment2.exe
+F:\DotNET\assignments\Assignment2\obj\Debug\Assignment2.pdb

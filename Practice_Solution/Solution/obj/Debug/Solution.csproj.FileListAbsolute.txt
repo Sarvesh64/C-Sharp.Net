@@ -1,0 +1,7 @@
+F:\DotNET\Practice_Solution\Solution\bin\Debug\Solution.exe.config
+F:\DotNET\Practice_Solution\Solution\bin\Debug\Solution.exe
+F:\DotNET\Practice_Solution\Solution\bin\Debug\Solution.pdb
+F:\DotNET\Practice_Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+F:\DotNET\Practice_Solution\Solution\obj\Debug\Solution.exe
+F:\DotNET\Practice_Solution\Solution\obj\Debug\Solution.pdb
+F:\DotNET\Practice_Solution\Solution\obj\Debug\Solution.csprojAssemblyReference.cache

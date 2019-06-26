@@ -1,0 +1,15 @@
+F:\DotNET\PRoject\WebService(Object)\StudentClient\bin\Debug\StudentClient.exe.config
+F:\DotNET\PRoject\WebService(Object)\StudentClient\bin\Debug\StudentClient.exe
+F:\DotNET\PRoject\WebService(Object)\StudentClient\bin\Debug\StudentClient.pdb
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient.csprojAssemblyReference.cache
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\MainWindow.g.cs
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\App.g.cs
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient_MarkupCompile.cache
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient_MarkupCompile.lref
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\MainWindow.baml
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient.g.resources
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient.Properties.Resources.resources
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient.csproj.GenerateResource.cache
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient.csproj.CoreCompileInputs.cache
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient.exe
+F:\DotNET\PRoject\WebService(Object)\StudentClient\obj\Debug\StudentClient.pdb

@@ -1,0 +1,7 @@
+F:\DotNET\Day1\BasicConsoleProgram\bin\Debug\BasicConsoleProgram.exe.config
+F:\DotNET\Day1\BasicConsoleProgram\bin\Debug\BasicConsoleProgram.exe
+F:\DotNET\Day1\BasicConsoleProgram\bin\Debug\BasicConsoleProgram.pdb
+F:\DotNET\Day1\BasicConsoleProgram\obj\Debug\BasicConsoleProgram.csprojAssemblyReference.cache
+F:\DotNET\Day1\BasicConsoleProgram\obj\Debug\BasicConsoleProgram.csproj.CoreCompileInputs.cache
+F:\DotNET\Day1\BasicConsoleProgram\obj\Debug\BasicConsoleProgram.exe
+F:\DotNET\Day1\BasicConsoleProgram\obj\Debug\BasicConsoleProgram.pdb

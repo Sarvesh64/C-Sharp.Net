@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDataSetProject", "WebDataSetProject\WebDataSetProject.csproj", "{C1DE0188-BC70-47BF-BB7F-15E207715407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDataSetClient", "WebDataSetClient\WebDataSetClient.csproj", "{AFD9F065-9E10-470A-8A43-5CEB3FD62800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DE0188-BC70-47BF-BB7F-15E207715407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DE0188-BC70-47BF-BB7F-15E207715407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DE0188-BC70-47BF-BB7F-15E207715407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DE0188-BC70-47BF-BB7F-15E207715407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD9F065-9E10-470A-8A43-5CEB3FD62800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD9F065-9E10-470A-8A43-5CEB3FD62800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD9F065-9E10-470A-8A43-5CEB3FD62800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD9F065-9E10-470A-8A43-5CEB3FD62800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4190E30C-EAE2-4B14-9B14-E92EA64EBD23}
+	EndGlobalSection
+EndGlobal

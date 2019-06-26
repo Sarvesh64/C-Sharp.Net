@@ -1,0 +1,15 @@
+F:\DotNET\PRoject\AddService\AddClient\bin\Debug\AddClient.exe.config
+F:\DotNET\PRoject\AddService\AddClient\bin\Debug\AddClient.exe
+F:\DotNET\PRoject\AddService\AddClient\bin\Debug\AddClient.pdb
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient.csprojAssemblyReference.cache
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\MainWindow.g.cs
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\App.g.cs
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient_MarkupCompile.cache
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient_MarkupCompile.lref
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\MainWindow.baml
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient.g.resources
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient.Properties.Resources.resources
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient.csproj.GenerateResource.cache
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient.csproj.CoreCompileInputs.cache
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient.exe
+F:\DotNET\PRoject\AddService\AddClient\obj\Debug\AddClient.pdb

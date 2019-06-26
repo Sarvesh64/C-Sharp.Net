@@ -1,0 +1,7 @@
+F:\DotNET\Exam Practice\WCF\WcfServiceCRUD\WcfServiceCRUD\bin\WcfServiceCRUD.dll.config
+F:\DotNET\Exam Practice\WCF\WcfServiceCRUD\WcfServiceCRUD\bin\WcfServiceCRUD.dll
+F:\DotNET\Exam Practice\WCF\WcfServiceCRUD\WcfServiceCRUD\bin\WcfServiceCRUD.pdb
+F:\DotNET\Exam Practice\WCF\WcfServiceCRUD\WcfServiceCRUD\obj\Debug\WcfServiceCRUD.csprojAssemblyReference.cache
+F:\DotNET\Exam Practice\WCF\WcfServiceCRUD\WcfServiceCRUD\obj\Debug\WcfServiceCRUD.csproj.CoreCompileInputs.cache
+F:\DotNET\Exam Practice\WCF\WcfServiceCRUD\WcfServiceCRUD\obj\Debug\WcfServiceCRUD.dll
+F:\DotNET\Exam Practice\WCF\WcfServiceCRUD\WcfServiceCRUD\obj\Debug\WcfServiceCRUD.pdb

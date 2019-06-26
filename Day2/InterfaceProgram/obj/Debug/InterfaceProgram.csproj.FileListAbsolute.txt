@@ -1,0 +1,7 @@
+F:\DotNET\Day2\InterfaceProgram\bin\Debug\InterfaceProgram.exe.config
+F:\DotNET\Day2\InterfaceProgram\bin\Debug\InterfaceProgram.exe
+F:\DotNET\Day2\InterfaceProgram\bin\Debug\InterfaceProgram.pdb
+F:\DotNET\Day2\InterfaceProgram\obj\Debug\InterfaceProgram.csprojAssemblyReference.cache
+F:\DotNET\Day2\InterfaceProgram\obj\Debug\InterfaceProgram.csproj.CoreCompileInputs.cache
+F:\DotNET\Day2\InterfaceProgram\obj\Debug\InterfaceProgram.exe
+F:\DotNET\Day2\InterfaceProgram\obj\Debug\InterfaceProgram.pdb

@@ -1,0 +1,45 @@
+﻿<Window x:Class="Wpfprogram2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfprogram2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF8EC2E6">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="161" Margin="251,19,0,0" VerticalAlignment="Top" Width="195"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="300" Margin="474,19,0,0" VerticalAlignment="Top" Width="258"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="343" Margin="10,19,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="lbl_rollNo" Content="Roll No" HorizontalAlignment="Left" Margin="28,51,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_rollno" HorizontalAlignment="Left" Height="23" Margin="95,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_firstname" Content="First Name" HorizontalAlignment="Left" Margin="28,93,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_firstname" HorizontalAlignment="Left" Height="23" Margin="95,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_basic" Content="Basic" HorizontalAlignment="Left" Margin="28,138,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_basic" HorizontalAlignment="Left" Height="22" Margin="95,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_deptno" Content="Dept No" HorizontalAlignment="Left" Margin="28,185,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_deptno" HorizontalAlignment="Left" Height="22" Margin="95,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Insert" HorizontalAlignment="Left" Margin="95,227,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Insert with Parameters" HorizontalAlignment="Left" Margin="66,264,0,0" VerticalAlignment="Top" Width="138" Click="Button_Click_1"/>
+        <Button x:Name="btn_delete" Content="Delete" HorizontalAlignment="Left" Margin="304,101,0,0" VerticalAlignment="Top" Width="75" Click="Btn_delete_Click"/>
+        <TextBox x:Name="txt_delete_id" HorizontalAlignment="Left" Height="23" Margin="314,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_old_id" Content="Old Id" HorizontalAlignment="Left" Margin="257,51,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_old_id_update" Content="Old Id" HorizontalAlignment="Left" Margin="494,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_firstname_Copy" Content="First Name" HorizontalAlignment="Left" Margin="488,101,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_firstname_update" HorizontalAlignment="Left" Height="23" Margin="555,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_basic_update" HorizontalAlignment="Left" Height="22" Margin="555,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_deptno_update" HorizontalAlignment="Left" Height="22" Margin="555,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbl_basic_Copy" Content="Basic" HorizontalAlignment="Left" Margin="494,142,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_deptno_Copy" Content="Dept No" HorizontalAlignment="Left" Margin="494,189,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_update_id" HorizontalAlignment="Left" Height="23" Margin="555,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Btn_update_Click" Content="Update" HorizontalAlignment="Left" Margin="568,232,0,0" VerticalAlignment="Top" Width="75" Click="Btn_update_Click_1"/>
+        <Button Content="Delete Stored Procedures" HorizontalAlignment="Left" Margin="269,138,0,0" VerticalAlignment="Top" Width="165" Click="Button_Click_3"/>
+        <Button Content="Insert Stored Procedures" HorizontalAlignment="Left" Margin="54,304,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click_2"/>
+        <Button Content="Update Stored Procedures" HorizontalAlignment="Left" Margin="503,279,0,0" VerticalAlignment="Top" Width="201" Click="Button_Click_4"/>
+        <Button x:Name="btn_all_query" Content="ALL" HorizontalAlignment="Left" Margin="282,192,0,0" VerticalAlignment="Top" Width="132" Height="36" Click="Btn_all_query_Click"/>
+        <ListBox x:Name="list_employees" HorizontalAlignment="Left" Height="119" Margin="283,243,0,0" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_display" Content="Display " HorizontalAlignment="Left" Margin="304,378,0,0" VerticalAlignment="Top" Width="110" Click="Btn_display_Click"/>
+        <ListBox x:Name="list_employee_id" HorizontalAlignment="Left" Height="119" Margin="248,243,0,0" VerticalAlignment="Top" Width="27"/>
+        <ListBox x:Name="list_employee_basic" HorizontalAlignment="Left" Height="119" Margin="346,243,0,0" VerticalAlignment="Top" Width="70"/>
+        <ListBox x:Name="list_employee_dept" HorizontalAlignment="Left" Height="119" Margin="424,243,0,0" VerticalAlignment="Top" Width="35"/>
+    </Grid>
+</Window>
